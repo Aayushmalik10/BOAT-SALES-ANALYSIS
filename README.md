@@ -1,0 +1,2 @@
+The dataset comprises sales data for previously-owned boats available on a website where users can promote their used boats for sale. The website facilitates users in showcasing essential details about their boats, including manufacturing information, current condition, and the asking price. The marketing team has sought a sales analysis to prepare for a weekly newsletter. 
+The primary goal of this analysis is to assist sellers by providing insights on enhancing engagement for their listed boats and staying informed about prevailing market trends.
